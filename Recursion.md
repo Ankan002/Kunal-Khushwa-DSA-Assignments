@@ -2,7 +2,7 @@
 
 ## Easy
 - ~~[Sum Triangle from Array](https://www.geeksforgeeks.org/sum-triangle-from-array/)~~
-- [Maximum and Minimum value in an array](https://www.geeksforgeeks.org/program-find-minimum-maximum-element-array/)
+- ~~[Maximum and Minimum value in an array](https://www.geeksforgeeks.org/program-find-minimum-maximum-element-array/)~~
 - ~~[First Uppercase Letter in a String](https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/)~~
 - ~~[Reverse String](https://leetcode.com/problems/reverse-string/)~~
 - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
