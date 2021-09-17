@@ -15,7 +15,7 @@
 - ~~[Sum of Natural numbers using Recursion](https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/)~~
 - ~~[Power of Two](https://leetcode.com/problems/power-of-two/)~~
 - ~~[Power of Three](https://leetcode.com/problems/power-of-three/)~~
-- [Power of Four](https://leetcode.com/problems/power-of-four/)
+- ~~[Power of Four](https://leetcode.com/problems/power-of-four/)~~
 - Write a recursive function for given n and a to determine x:
       n = a ^ x, (a = 2, 3, 4)
       (2 ^ -31) <= n <= (2 ^ 31) - 1      
