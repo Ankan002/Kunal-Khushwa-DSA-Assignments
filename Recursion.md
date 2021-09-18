@@ -6,7 +6,7 @@
 - ~~[First Uppercase Letter in a String](https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/)~~
 - ~~[Reverse String](https://leetcode.com/problems/reverse-string/)~~
 - ~~[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)~~
-- [Length of string using Recursion](https://www.geeksforgeeks.org/program-for-length-of-a-string-using-recursion/)
+- ~~[Length of string using Recursion](https://www.geeksforgeeks.org/program-for-length-of-a-string-using-recursion/)~~
 - [Recursive Bubble Sort](https://www.geeksforgeeks.org/recursive-bubble-sort/)
 - [Recursive Insertion Sort](https://www.geeksforgeeks.org/recursive-insertion-sort/)
 - ~~[Sum of digit of a number using Recursion](https://www.geeksforgeeks.org/sum-digit-number-using-recursion/)~~
