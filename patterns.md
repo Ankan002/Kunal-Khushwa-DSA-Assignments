@@ -4,11 +4,11 @@ Print these patterns using loops:
 
 ```text
 
-1. ~~*****
+1.  *****
     *****
     *****
     *****
-    *****~~
+    *****
 
 
 2.  *
